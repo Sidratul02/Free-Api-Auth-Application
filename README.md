@@ -1,6 +1,8 @@
-# FreeAPI Authentication App
+# Authentication App
 
 A frontend authentication app built with React + Vite using the [FreeAPI](https://freeapi.app) authentication module.
+<img width="457" height="392" alt="Screenshot (260)" src="https://github.com/user-attachments/assets/e0bddfb8-f9d4-4e62-853b-9611c1272b5a" />
+
 
 ## Features
 
